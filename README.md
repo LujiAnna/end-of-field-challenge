@@ -14,7 +14,7 @@
 
 ## Demo
 ![](https://raw.githubusercontent.com/LujiAnna/end-of-field-challenge/master/img/interface06.png)
-[See demo here](https://lujianna.github.io/end-of-field-challenge/)
+[See demo here](https://lujianna.github.io/end-of-field-challenge/job.html)
 
 ## Tech Stack
 
