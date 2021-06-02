@@ -4,14 +4,16 @@
 
 
 ## Demo
-[]()
+![](https://raw.githubusercontent.com/LujiAnna/end-of-field-challenge/master/img/interface02.png)
+
 [See demo here](https://lujianna.github.io/end-of-field-challenge/)
 
+***********
 
 > 2. Job Page
 
 ## Demo
-[]()
+![](https://raw.githubusercontent.com/LujiAnna/end-of-field-challenge/master/img/interface06.png)
 [See demo here](https://lujianna.github.io/end-of-field-challenge/)
 
 ## Tech Stack
