@@ -5,18 +5,21 @@ As often is with CSS, this is an exercise in precision and accuracy (and a zest 
 
 For each interface :
 
+1. [2](https://raw.githubusercontent.com/becodeorg/gnt-verou-2/master/1.The-Field/01.HTML-CSS/07.End-of-Field-Challenge/images/normal-res/simple/interface.02.png?token=AK5XVUIJDIESVRVWYPU6OCDAYB3ZA)
+2. [19](https://raw.githubusercontent.com/becodeorg/gnt-verou-2/master/1.The-Field/01.HTML-CSS/07.End-of-Field-Challenge/images/normal-res/simple/interface.19.png?token=AK5XVUOAQKKARZYUQCXAR3DAYB34Y)
+3. [6](https://github.com/becodeorg/gnt-verou-2/blob/master/1.The-Field/01.HTML-CSS/07.End-of-Field-Challenge/images/normal-res/complex/complex.06.png)
 Create a standard html page based on this template (replace [filename] with the filename of the mockup image you are building):
 
-- Create a standard style.css stylesheet and link it to the html page
-- Add the relevant HTML and CSS code so that the end result looks as similar as possible to the provided mockup images.
-- Commit (and push) per feature or part (set a timer to remind you if you need to)
+- [ ] Create a standard style.css stylesheet and link it to the html page
+- [ ] Add the relevant HTML and CSS code so that the end result looks as similar as possible to the provided mockup images.
+- [ ] Commit (and push) per feature or part (set a timer to remind you if you need to)
 
 ### Git
 
-- [ ] I have created the repository
-- [ ] I commit regularly (3 or more times per interface) and with [useful commit messages](https://www.google.com/search?q=useful+commit+messages&oq=useful+commit)
+- [x] I have created the repository
+- [x] I commit regularly (3 or more times per interface) and with [useful commit messages](https://www.google.com/search?q=useful+commit+messages&oq=useful+commit)
 - [ ] I push to the repository often (at least twice a day)
-- [ ] I provide a README, briefly describing the project
+- [x] I provide a README, briefly describing the project
 
 _Example of good commit messages:_
 
@@ -63,6 +66,9 @@ _Example of good commit messages:_
 - [ ] My work is deployed and viewable by anyone with a public URL
 - [ ] Each of my interface is a separate page linked to my README file
 
+### Done ?
+- [ ] Are you sure? Review the criteria
+
 ### Tips
 Remember when iPhones came out with the slogan "There is an app for everything"?. Well, there is also a _browser extension_ for everything.
 
@@ -80,3 +86,5 @@ Or yet another alternative: you can open the image with an image editing applica
 ## Fonts
 
 You can try to find a similar font to use by looking at https://fonts.google.com/, or by using the Font Indentifier tool by Font Squirrel (https://www.fontsquirrel.com/matcherator). This is optional and not required.
+
+* [font matcher](https://www.myfonts.com/WhatTheFont/result)
