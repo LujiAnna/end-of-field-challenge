@@ -102,10 +102,10 @@ hr {
   /*max-height: 157px;*/
   height: 157px;
   line-height: 157px;
-
 }
 
 .auction a {
+  outline: none;
   background-color: #FFC400;
   font-weight: 900;
   color: #3B3B3B;
@@ -118,9 +118,32 @@ hr {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
 
+  width: 60%;
+  /*margin-right: 0.625%;*/
+  /*display: inline-block;*/
+  text-align: center;
   /*max-height: 88px;*/
   /*width: 436px;*/
   /*margin-left: 140px;*/
+  /*margin: auto;*/
+}
+
+/*MEDIA QUERY*/
+
+@media only screen and (max-width: 600px) {
+  .auction-link {
+    height: 100px;
+    line-height: 100px;
+  }
+
+  .auction a {
+    font-weight: 900;
+    /*padding: 20px;*/
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-size: 100%;
+    /*margin-bottom: 20px;*/
+  }
 }
 
 
