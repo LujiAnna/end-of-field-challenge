@@ -10,7 +10,7 @@
 
 ***********
 
-> 2. Job Page
+> 2. Complex Job Page
 
 ## Demo
 ![](https://raw.githubusercontent.com/LujiAnna/end-of-field-challenge/master/img/interface06.png)
