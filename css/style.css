@@ -1,0 +1,128 @@
+/*STYLE INTERFACE 2*/
+
+/*COLOR*/
+/*color-background: #FFFFFF*/
+/*color-border: #D00031 */
+/*color-hr: #EEEEEE */
+/*color-font: #303030 */
+/*color-green: #25A700 */
+/*color-link-yellow: #FFC400 */
+/*color-link-font: #353535 */
+/*color-footer: #353535 */
+
+/*FULL SIZE*/
+/*width: 748*/
+/*height: 623*/
+/*border-width: 13*/
+/*border-width-hr: 3*/
+
+/*SMALL SIZE*/
+/*width: 372*/
+/*height: 310*/
+/*left: 533*/
+/*top: 210*/
+/*right: 905*/
+/*top: 520*/
+/*border-width: 8*/
+
+/*FONT*/
+/*font-style: roboto*/
+/*font-weight-normal: light 300*/
+/*font-weight-reduction: regular 400*/
+/*font-weight-time: medium 500*/
+/*font-weight-green: bold 700*/
+/*font-weight-link: black 900*/
+
+/*HEIGHT*/
+/*height-title-information: 182*/
+/*height-description: 260*/
+/*height-footer: 157*/
+
+/*BUTTON/LINK*/
+/*button-height:88 */
+/*button-width:436 */
+
+#auction {
+  max-width: 748px;
+  /*max-height: 623px;*/
+  border: 13px solid #D00031;
+  margin: 50px auto;
+  background-color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: #303030;
+  font-size: 18px;
+  box-sizing: border-box;
+  height: auto;
+}
+
+.auction {
+  text-align: center;
+  font-size: 120%;
+}
+
+.information p{
+  padding: 20px;
+  /*max-height: 182px;*/
+}
+
+.description {
+  /*max-height: 260px;*/
+  font-size: 150%;
+}
+
+.description p {
+  font-weight: 400;
+}
+
+p .name {
+  color: #25A700;
+  font-weight: 700;
+  line-height: 10px;
+  margin-top: 10px;
+  font-size: 80%;
+}
+
+time {
+  font-weight: 500;
+}
+
+hr {
+  display: block;
+  height: 3px;
+  border: 0;
+  border-top: 1px solid #eee;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.auction-link {
+  background-color: #353535;
+  /*height: auto;*/
+  /*max-height: 157px;*/
+  height: 157px;
+  line-height: 157px;
+
+}
+
+.auction a {
+  background-color: #FFC400;
+  font-weight: 900;
+  color: #3B3B3B;
+  text-decoration: none;
+  padding: 20px;
+  border-radius: 4px;
+  text-transform: uppercase;
+  font-size: 130%;
+  margin-bottom: 20px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+
+  /*max-height: 88px;*/
+  /*width: 436px;*/
+  /*margin-left: 140px;*/
+}
+
+
+/*STYLE INTERFACE 6*/
+
